@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\src\\components\\features\\Feature3.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\features\\Feature3.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\src\\components\\ctas\\Cta3.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ctas\\Cta3.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Feature3.jsx",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\src\\components\\features\\Feature3.jsx",
+              "RelativeDocumentMoniker": "src\\components\\features\\Feature3.jsx",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\src\\components\\features\\Feature3.jsx",
+              "RelativeToolTip": "src\\components\\features\\Feature3.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-22T08:05:43.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cta3.jsx",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\src\\components\\ctas\\Cta3.jsx",
+              "RelativeDocumentMoniker": "src\\components\\ctas\\Cta3.jsx",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\src\\components\\ctas\\Cta3.jsx",
+              "RelativeToolTip": "src\\components\\ctas\\Cta3.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2025-01-22T08:05:34.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\src\\index.js",
+              "RelativeDocumentMoniker": "src\\index.js",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\src\\index.js",
+              "RelativeToolTip": "src\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-21T18:03:10.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "index.css",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\src\\index.css",
+              "RelativeDocumentMoniker": "src\\index.css",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\src\\index.css",
+              "RelativeToolTip": "src\\index.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-21T18:02:20.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\src\\App.js",
+              "RelativeDocumentMoniker": "src\\App.js",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\src\\App.js",
+              "RelativeToolTip": "src\\App.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-21T18:02:19.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\src\\App.css",
+              "RelativeDocumentMoniker": "src\\App.css",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\src\\App.css",
+              "RelativeToolTip": "src\\App.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-21T18:02:09.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T18:02:07.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-21T18:02:02.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\lenovo\\OneDrive - Faculty Of Engineering (Zagazig University)\\Desktop\\Last\\Amit\\frameWork-React\\Projects-React\\project2\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-21T16:15:37.113Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
