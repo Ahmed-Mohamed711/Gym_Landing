@@ -1,35 +1,91 @@
+/* إعادة تعيين القيم الافتراضية */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body,
+html {
+  width: 100%;
+  overflow-x: hidden;
+}
+
+/* تصميم شريط التنقل */
 .navbar3 {
+  width: 100%;
   display: flex;
   justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background-color: #222; /* لون خلفية */
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 100;
 }
+
 .logo {
   width: 10rem;
   height: 3rem;
 }
+
+/* تصميم القائمة */
 .navbar3-menu {
   list-style: none;
   display: flex;
   gap: 2rem;
+}
+
+.navbar3-menu li {
+  cursor: pointer;
   color: white;
+  font-size: 1rem;
+  font-weight: bold;
+  transition: color 0.3s ease-in-out;
 }
-.navbar3-menu > li {
-  cursor: pointer;
-}
-.navbar3-menu > li:hover {
-  cursor: pointer;
+
+.navbar3-menu li:hover {
   color: orange;
 }
-/* res mobile */
 
+/* تصميم أيقونة القائمة في وضع الجوال */
+.menu-icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: gray;
+  padding: 0.5rem;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.menu-bars {
+  width: 1.5rem;
+  height: 1.5rem;
+}
+
+/* استجابة للجوال */
 @media screen and (max-width: 768px) {
-  .navbar3 > :nth-child(2) {
-    position: fixed;
-    right: 2rem;
-    z-index: 99;
-  }
   .navbar3-menu {
+    display: none; /* إخفاء القائمة افتراضيًا */
     flex-direction: column;
-    background: var(--appColor);
+    background: rgba(0, 0, 0, 0.9);
+    position: fixed;
+    top: 4rem;
+    right: 0;
+    width: 60%;
+    height: 100vh;
     padding: 2rem;
+    transition: transform 0.3s ease-in-out;
+  }
+
+  .mobile-menu {
+    display: flex;
+  }
+
+  .navbar3-menu li {
+    margin: 1.5rem 0;
+    text-align: center;
   }
 }
